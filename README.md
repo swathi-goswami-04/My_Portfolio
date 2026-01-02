@@ -7,8 +7,7 @@ Built to be clean, fast, and minimal — focused on substance over flash.
 ---
 
 ## 🚀 Live Demo
-(Deployed link will be added after hosting)
-
+[(Deployed link will be added after hosting)](https://swathigoswamiportfolio.netlify.app/)
 ---
 
 ## 🛠️ Tech Stack
