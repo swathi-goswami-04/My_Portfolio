@@ -1,16 +1,114 @@
-# React + Vite
+# 🌐 Swathi Goswami — Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website showcasing my projects, technical skills, experience, and achievements as a Computer Science Engineering student with interests in AI, Machine Learning, and Blockchain.
 
-Currently, two official plugins are available:
+Built to be clean, fast, and minimal — focused on substance over flash.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Live Demo
+(Deployed link will be added after hosting)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React (Vite)
+- **Styling:** Tailwind CSS
+- **Icons:** Lucide React, React Icons
+- **Deployment:** Netlify (planned)
+- **Version Control:** Git & GitHub
+
+---
+
+## 📌 Features
+
+- Responsive and modern UI
+- Dark / Light mode toggle
+- Smooth section navigation
+- Project-focused layout
+- Minimal, recruiter-friendly content
+- Optimized for performance and readability
+
+---
+
+## 📂 Sections Overview
+
+### 👩‍💻 About
+A brief introduction highlighting my academic background, interests, and approach to problem-solving.
+
+### 🎓 Education
+- **B.E. Computer Science & Engineering**
+- Sri Sai Ram Institute of Technology (2022–2026)
+- CGPA: 8.55 (Till 6th Semester)
+
+### 💼 Experience
+- **Machine Learning Intern — Prasunet Company**
+  - Worked on a basic ML-based personalization prototype
+  - Data preprocessing, feature selection, and model evaluation
+  - Hands-on exposure to ML pipelines using Python
+
+### 🧠 Featured Projects
+
+#### 🔹 Immulink — Blockchain Vaccine Supply Chain *(IEEE Published)*
+- Blockchain + IoT-based vaccine traceability platform
+- Improved transparency and trust in supply chain systems
+- Published on IEEE Xplore (2024)
+
+**Tech:** Solidity, Ethereum, React, IoT
+
+---
+
+#### 🔹 LeetMentor — AI DSA Mentor
+- AI-powered mentor for understanding LeetCode problems
+- Provides guided explanations and structured problem-solving hints
+
+**Tech:** Python, LLMs, DSA, Prompt Engineering  
+🔗 GitHub: https://github.com/swathi-goswami-04/LeetMentor
+
+---
+
+#### 🔹 SmartChatbot_02 (RAG-based)
+- Custom DSA tutor using Retrieval-Augmented Generation
+- Built with FastAPI and ChromaDB using local LLMs
+
+**Tech:** FastAPI, ChromaDB, LLMs, Docker
+
+---
+
+#### 🔹 Churn Prediction System
+- End-to-end ML pipeline with FastAPI backend and Flask UI
+
+**Tech:** XGBoost, FastAPI, Flask, Docker
+
+---
+
+#### 🔹 Computer Vision Projects
+- Classical image processing and ML-based CV pipelines
+- OpenCV and scikit-learn based implementations
+
+---
+
+### 🏆 Achievements
+
+- IEEE Research Paper Publication (Immulink, 2024)
+- HackerRank Gold Badge in Java
+- 100+ problems solved on LeetCode
+- Mentored 250+ students through coding sessions
+
+---
+
+## ⚙️ Getting Started (Local Setup)
+
+### Prerequisites
+- Node.js (v18+ recommended)
+- npm or yarn
+
+### Installation
+
+```bash
+git clone https://github.com/<your-username>/<your-repo-name>.git
+cd <your-repo-name>
+npm install
+
+
