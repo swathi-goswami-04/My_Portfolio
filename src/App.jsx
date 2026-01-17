@@ -217,7 +217,7 @@ I've worked on end-to-end projects across ML, NLP, and computer vision, includin
       <section className="max-w-6xl mx-auto px-8 py-10">
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-8">
           {/* Stat numbers color changed to purple */}
-          <HoverCard><h3 className="text-4xl font-extrabold text-purple-400">100+</h3><p className="opacity-70 mt-2">LeetCode Problems</p></HoverCard>
+          <HoverCard><h3 className="text-4xl font-extrabold text-purple-400">200+</h3><p className="opacity-70 mt-2">LeetCode Problems</p></HoverCard>
           <HoverCard><h3 className="text-4xl font-extrabold text-purple-400">2</h3><p className="opacity-70 mt-2">Industry Internships</p></HoverCard>
           <HoverCard><h3 className="text-4xl font-extrabold text-purple-400">1</h3><p className="opacity-70 mt-2">IEEE Publication</p></HoverCard>
           <HoverCard><h3 className="text-4xl font-extrabold text-purple-400">10+</h3><p className="opacity-70 mt-2">Projects Built</p></HoverCard>
