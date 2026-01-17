@@ -235,41 +235,6 @@ I've worked on end-to-end projects across ML, NLP, and computer vision, includin
           <p className="mt-3 text-sm">CGPA: <strong>8.55</strong> (Till 6th Semester)</p>
         </HoverCard>
       </section>
-
-      {/* EXPERIENCE (NEW SECTION) */}
-      <section id="experience" className="max-w-5xl mx-auto px-8 py-20 ${SCROLL_MARGIN_TOP_CLASS}">
-        <h2 className={`text-4xl font-bold mb-8 ${dark ? "text-purple-400" : "text-purple-600"}`}>Experience</h2>
-        <div className="grid gap-8">
-          
-          {/* PRASUNET COMPANY INTERNSHIP */}
-          <HoverCard>
-            <div className="flex justify-between items-start mb-2">
-              <div>
-                <h3 className="text-xl font-semibold">Machine Learning Intern</h3>
-                <p className="opacity-75 text-sm">PRASUNET COMPANY</p>
-              </div>
-              <div className="text-right">
-                <p className="text-sm opacity-60">March - April 2025</p>
-                <p className="text-sm opacity-60">Chennai, India</p>
-              </div>
-            </div>
-            <ul className="list-disc pl-5 space-y-2 opacity-90 text-sm">
-                 <li>Worked on a basic ML-based personalization prototype using user interaction data.</li>
-                  <li>Handled data preprocessing, feature selection, and model evaluation.</li>
-                  <li>Gained hands-on exposure to building and testing ML pipelines in Python.</li>
-            </ul>
-            <div className="flex flex-wrap gap-2 mt-4">
-              {["Python","ML Pipeline","Classification","Data Analysis"].map(t => <TechBadge key={t} label={t} note="Skills used" />)}
-            </div>
-            <div className="flex gap-4 mt-6">
-            <a href="https://github.com/swathi-goswami-04/AI_Ecommerce_Personalization_Project" target="_blank" className="inline-flex items-center gap-2 text-sm font-medium text-purple-400 hover:text-purple-300 transition">GitHub <ExternalLink size={14} /></a>
-            <a href="https://swathi-goswami-04-ai-ecommerce-personalization-proje-app-qfzidb.streamlit.app/" target="_blank" className="inline-flex items-center gap-2 text-sm hover:text-white transition">Deploy <ExternalLink size={14} /></a>
-          </div>
-          </HoverCard>
-        </div>
-      </section>
-
-
       {/* PROJECTS */}
       <section id="projects" className="max-w-6xl mx-auto px-8 py-24 ${SCROLL_MARGIN_TOP_CLASS}">
         {/* Heading color changed to purple */}
@@ -433,7 +398,7 @@ I've worked on end-to-end projects across ML, NLP, and computer vision, includin
           </HoverCard>
           <HoverCard>
             {/* Stat numbers color changed to purple */}
-            <h3 className="text-4xl font-extrabold text-purple-400">100+</h3>
+            <h3 className="text-4xl font-extrabold text-purple-400">200+</h3>
             <p className="opacity-70 mt-3">Problems solved on LeetCode</p>
           </HoverCard>
           <HoverCard>
