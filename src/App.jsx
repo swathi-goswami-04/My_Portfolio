@@ -43,7 +43,6 @@ const PROFILE_PHOTO_URL = profilePhoto;
 const SECTIONS = [
   { id: "about", label: "About" },
   { id: "education", label: "Education" },
-  { id: "experience", label: "Experience" },
   { id: "projects", label: "Projects" },
   { id: "achievements", label: "Achievements" },
   { id: "contact", label: "Contact" },
